@@ -1,3 +1,5 @@
+<img src = "banner.gif" width = "325px" align = "right">
+
 ## Hey! I'm Luiz Gustavo, and this is my profile.
 
  <div id="badges">
