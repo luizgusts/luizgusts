@@ -27,6 +27,6 @@ Sou apaixonado pela área de tecnologia e estou sempre estudando.
 --- 
 
 <div align = "left">
-<img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgusts&show_icons=true&theme=radical"/>
+<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgusts&show_icons=true&theme=radical"/>
 <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=luizgusts&show_icons=true&show_icons=true&theme=radical"/>
 </div>
