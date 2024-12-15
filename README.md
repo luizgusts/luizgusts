@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "325px" align = "right">
+<img src = "giphy.webp" width = "300px" align = "right">
 
 ## Hey! I'm Luiz Gustavo, and this is my profile.
 
